@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Kevcarm
+/src/backend/database.py      @Kevcarm
+/src/backend/routers/auth.py  @Kevcarm
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Kevcarm
